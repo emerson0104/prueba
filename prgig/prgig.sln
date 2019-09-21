@@ -12,6 +12,11 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "clase", "clase", "{C3A7CF10
 		Class1.cs = Class1.cs
 	EndProjectSection
 EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "nnn", "nnn", "{6E144A0A-3880-41D2-845B-547425C9F71F}"
+	ProjectSection(SolutionItems) = preProject
+		class.cs = class.cs
+	EndProjectSection
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
